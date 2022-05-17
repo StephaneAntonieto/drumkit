@@ -1,7 +1,7 @@
 // DOM element.
 const btn = document.querySelectorAll(".drum");
 
-// Get the event key and play the right sond.
+// Get the event key and play the right sound.
 function playSound(e) {
   switch (e) {
     case "w":
